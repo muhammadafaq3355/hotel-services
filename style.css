@@ -1,0 +1,45 @@
+#wrapper{
+   
+   width: 100%; height: 100px;
+
+}
+
+#header{
+    border: 1px solid black;
+    width: 100%; height: 100px;
+    background-color: lightblue;
+}
+
+#logo{
+  
+    width: 15%; height: 50px; margin-left: 20px; margin-top: 20px;
+   background-color: brown; 
+
+}
+
+#navbar{
+
+  
+    width: 100%; height: 100px; background-color: gray;
+}
+
+#container{
+    ;
+ width: 100%; height: 500px;
+
+}
+#left-panel{
+    
+    width: 35%; height: 500px;
+    background-color:blueviolet;
+    float: left;
+}
+#right-section{
+   
+    width: 64%;; height: 500px;background-color: aqua; float: right;
+}
+
+#footer{
+    border: 1px solid black; width: 100%; height: 200px;
+    background-color: darkgreen;
+}
